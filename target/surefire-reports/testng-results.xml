@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T20:22:35 IST" name="Suite" finished-at="2024-04-02T20:22:39 IST" duration-ms="4664">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T20:22:35 IST" name="Test" finished-at="2024-04-02T20:22:39 IST" duration-ms="4664">
+      <class name="example.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:example.NewTest@32ee6fee]" started-at="2024-04-02T20:22:35 IST" name="beforeTest" finished-at="2024-04-02T20:22:36 IST" duration-ms="1229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testYouTubeTitle()[pri:0, instance:example.NewTest@32ee6fee]" started-at="2024-04-02T20:22:36 IST" name="testYouTubeTitle" finished-at="2024-04-02T20:22:39 IST" duration-ms="3295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testYouTubeTitle -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:example.NewTest@32ee6fee]" started-at="2024-04-02T20:22:39 IST" name="afterTest" finished-at="2024-04-02T20:22:39 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- example.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
